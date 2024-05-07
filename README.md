@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 
 <h1 align="center">Soy Angela / Pasión por lo que hago ✨ </h1> 
 <!--
